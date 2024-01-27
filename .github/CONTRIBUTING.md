@@ -2,7 +2,7 @@
 
 ## Welcome to [Project Name]!
 
-We're thrilled you're considering contributing to [Project Name]. Your contributions help us grow and improve. Here's how you can contribute:
+We're thrilled you're considering contributing to Wavly. Your contributions help us grow and improve. Here's how you can contribute:
 
 ### Reporting Bugs or Requesting Features
 

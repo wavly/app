@@ -1,24 +1,23 @@
-# [Project Name]
+# Wavly
 
-*Short description or tagline of the project*
+The new type of social media.
 
 ---
 
 ## About The Project
 
-- Briefly explain what this project does.
-- Highlight unique features or what makes this project stand out.
-- Provide context or background if necessary.
+- Social Media for sharing thoughts while you can scroll and see what others are doing through jamboards of info, collections of holidays, and promotions of friends and family.
 
 ## Demo/Live Link
 
-- [Link to Demo or Live Version](#)
+- No Live Version Yet
 
 ## Getting Started
 
 ### Prerequisites
 
-- List any prerequisites, libraries, or tools needed to run this project.
+- NodeJS
+- Yarn
 
 ### Installation and Setup
 
@@ -28,7 +27,7 @@
    ```
 2. **Navigate to the project directory**:
    ```
-   cd [project name]
+   cd Wavly
    ```
 3. **Install dependencies**:
    ```
@@ -55,5 +54,5 @@ We welcome contributions to this project! For guidelines on how to contribute, p
 
 ## Additional Information
 
-- [Project Name] is [License](LICENSE) under MIT.
+- Wavly is [License](LICENSE) under MIT.
 - Any other information or sections relevant to the project can be added here.
